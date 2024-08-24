@@ -18,6 +18,7 @@ struct ContentView: View {
 }
 
 struct CardView : View {
+    //Some comment
     var isFaceUp : Bool
     var body : some View {
         ZStack {
